@@ -34,7 +34,4 @@ I’m passionate about **Python programming**, **AI development**, **Machine Lea
 - **Email**: [fatkhinddinkhan@gmail.com](mailto:fatkhinddinkhan@gmail.com)
 - **Pronouns**: He/Him
 
-Let’s connect and keep learning together!<!---
-Fatkhiddinkhan/Fatkhiddinkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let’s connect and keep learning together!
